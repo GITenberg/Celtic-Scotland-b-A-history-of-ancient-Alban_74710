@@ -1,0 +1,33 @@
+_repo: Celtic-Scotland-b-A-history-of-ancient-Alban_74710
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Skene, W. F. (William Forbes)
+    alias: Skene, William Forbes
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '44620'
+    url: http://www.gutenberg.org/2009/agents/44620
+    wikipedia: https://en.wikipedia.org/wiki/William_Forbes_Skene
+description: ''
+gutenberg_issued: '2024-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74710'
+language: en
+pgterms:marc904: https://archive.org/details/celticscotlandhi01sken https://archive.org/details/celticscotlandhi02sken
+  https://archive.org/details/celticscotlandhi03sken
+pgterms:marc905: 20210514223635skene
+pgterms:marc906: '1886'
+pgterms:marc907: GB
+production_note: MWS, KD Weeks, and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aEdinburgh :$bDavid Douglas, $c1886, copyright 1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Celtic Scotland : $b A history of ancient Alban'
+url: http://www.gutenberg.org/ebooks/74710
